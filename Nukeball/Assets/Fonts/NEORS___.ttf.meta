@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ccc54f3eb44177942b7cbdd6d7f59905
+timeCreated: 1493038414
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NeoRetroShadow
+  fontNames:
+  - NeoRetroShadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

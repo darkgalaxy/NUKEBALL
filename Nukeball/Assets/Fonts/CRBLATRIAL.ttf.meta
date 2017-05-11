@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9b042bedf7d46cb498013675b7761447
+timeCreated: 1492907610
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: C rial black
+  fontNames:
+  - C rial black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 180cdc5390b05b84595012c5a4797f15, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

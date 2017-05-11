@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a88e6980307ddb14d888c922306196d8
+timeCreated: 1492907598
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cactus Tequila
+  fontNames:
+  - Cactus Tequila
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
